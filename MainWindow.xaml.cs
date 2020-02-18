@@ -8,7 +8,6 @@ namespace MaterialDesignTest {
     /// </summary>
     public partial class MainWindow : Window {
         private DockPanel currentMetrics;
-        private DockPanel prevMetrics;
 
         public MainWindow() {
             InitializeComponent();
