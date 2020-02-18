@@ -20,3 +20,24 @@ C:\Users\Boss\Desktop\MaterialDesignTest\obj\Debug\MaterialDesignTest.exe
 C:\Users\Boss\Desktop\MaterialDesignTest\obj\Debug\MaterialDesignTest.pdb
 C:\Users\Boss\Desktop\MaterialDesignTest\bin\Debug\MaterialSkin.dll
 C:\Users\Boss\Desktop\MaterialDesignTest\obj\Debug\MaterialDesignTest.csprojAssemblyReference.cache
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MainWindow.g.cs
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\App.g.cs
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest_MarkupCompile.cache
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest_MarkupCompile.lref
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest.exe
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest.pdb
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignTest.exe.config
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignTest.exe
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignTest.pdb
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignColors.dll
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialSkin.dll
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\App.baml
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MainWindow.baml
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest.g.resources
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest.Properties.Resources.resources
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest.csproj.GenerateResource.cache
+C:\Users\Boss\Desktop\JWC Test\MaterialDesignTest\obj\Debug\MaterialDesignTest.csproj.CopyComplete
